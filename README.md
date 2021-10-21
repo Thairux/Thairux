@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html5 , php ,javascript & js
 - 💞️ I’m looking to collaborate on interactive websites 
 - 📫 How to reach me ptmthairu@gmail.com
-
+- ⚒ help me out wherever and whenever you can
 <!---
 Thairux/Thairux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
