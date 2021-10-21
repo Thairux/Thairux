@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thairux
-- 👀 I’m interested in proramming in java
-- 🌱 I’m currently learning html5 , php ,javascript & java
+- 👀 I’m interested in proramming in java  & js
+- 🌱 I’m currently learning html5 , php ,javascript & js
 - 💞️ I’m looking to collaborate on interactive websites 
 - 📫 How to reach me ptmthairu@gmail.com
 
